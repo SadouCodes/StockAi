@@ -1,4 +1,5 @@
 Link to Yahoo Finance API GitHub: https://github.com/ranaroussi/yfinance/tree/main
+Helpful Website: https://analyzingalpha.com/yfinance-python
 
 ticker.isin
 ticker.major_holders
