@@ -7,8 +7,6 @@ endDate = datetime.datetime(2023, 6, 1)
 
 GetMetaInfo = yf.Ticker("META")
 
-GetMetaInfo
-
 print("Meta Info\n")
 print(GetMetaInfo.info)
 print("\n")
